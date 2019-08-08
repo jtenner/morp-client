@@ -40,6 +40,6 @@
 		"vscode-test": "^1.0.2"
 	},
 	"dependencies": {
-		"ts-telnet2": "^0.2.2"
+		"ts-telnet2": "^0.2.6"
 	}
 }
